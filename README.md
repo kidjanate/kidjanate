@@ -1,4 +1,8 @@
-### Hi there 👋
+### About me (Yeah ofc, so about what?)
+- My name is Nate, You can also call me Nate! ✌
+- I'm 14 and living in Thailand with my parents! ❤
+- I'm good at Unity, C#, Arduino(C++), Python, PHP, JS 👍
+- And... I had one eye, Yeah I'm disabled and I had it since I'm borne, But anyways. I'm feel free what I am. 🎉
 
 <!--
 **kidJaNateTH/kidJaNateTH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
